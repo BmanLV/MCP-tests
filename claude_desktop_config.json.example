@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "C:\\Users\\PC\\MCP-tests\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\PC\\MCP-tests\\weather.py"
+      ]
+    },
+    "nba-scores": {
+      "command": "C:\\Users\\PC\\MCP-tests\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\PC\\MCP-tests\\nba_scores.py"
+      ]
+    },
+    "depo-store": {
+      "command": "C:\\Users\\PC\\MCP-tests\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\PC\\MCP-tests\\depo_store.py"
+      ]
+    }
+  }
+}
